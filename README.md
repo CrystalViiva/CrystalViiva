@@ -56,6 +56,5 @@ Current areas of focus include:
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/vivian-amarachi-njoku-26806aaa/)
+- [LinkedIn](YOUR_LINKEDIN_URL)
 - [GitHub](https://github.com/CrystalViiva)
-itHub](https://github.com/CrystalViiva)
