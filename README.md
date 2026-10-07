@@ -8,7 +8,7 @@ My background in business operations, accounting, fixed assets, and web developm
 
 **AssetFlow** is a production-oriented Fixed Asset Management System covering the asset lifecycle from acquisition and capitalization through depreciation, custody, transfers, maintenance, physical verification, assurance, reporting, and disposal.
 
-### Engineering highlights
+### Engineering Highlights
 
 - Django REST Framework backend with PostgreSQL
 - React + TypeScript frontend
