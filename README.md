@@ -58,6 +58,4 @@ Current areas of focus include:
 
 - [LinkedIn](https://www.linkedin.com/in/vivian-amarachi-njoku-26806aaa/)
 - [GitHub](https://github.com/CrystalViiva)
-
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [GitHub](https://github.com/CrystalViiva)
+itHub](https://github.com/CrystalViiva)
